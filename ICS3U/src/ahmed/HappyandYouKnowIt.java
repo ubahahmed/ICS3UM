@@ -1,8 +1,7 @@
 package ahmed;
 
 public class HappyandYouKnowIt {
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 
 		String [] verses = new String [] { "run around", "shoot some hoops", "go and play", "jump around", "stomp around", "go and sleep", "go and eat", "go play games", "go and run", "win the game"};
 		for (int x=0; x<=9; x++)
