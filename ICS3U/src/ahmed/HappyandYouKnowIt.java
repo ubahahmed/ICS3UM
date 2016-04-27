@@ -1,6 +1,7 @@
 package ahmed;
 
 public class HappyandYouKnowIt {
+	public static void main(String[] args) {
 
 
 		String [] verses = new String [] { "run around", "shoot some hoops", "go and play", "jump around", "stomp around", "go and sleep", "go and eat", "go play games", "go and run", "win the game"};
